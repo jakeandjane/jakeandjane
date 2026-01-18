@@ -1,6 +1,6 @@
  
 
-[![jakeandjane](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/jakeandjane/)
+[![jakeandjane](https://img.shields.io/badge/jakeandjane-github-blue?logo=github)](https://github.com/jakeandjane/)
 He is currently a student in the College of Electronics and Information Engineering, Sichuan University.
 
 #### Contact
